@@ -53,6 +53,8 @@
   height: 25px;
   font-size: 20px;
   text-align: center;
+  background: none;
+  border-radius: 50%;
 }
 
 .active{
